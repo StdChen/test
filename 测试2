@@ -1,0 +1,40 @@
+#  一级标题
+
+##  二级标题
+
+###  三级标题
+
+> 科教兴国
+
+`String str1 = "hello";`
+
+~~~python
+import numpy as np
+print("Hello World")
+~~~
+
+~~~c
+#测试代码
+#include<studio.h>
+main()
+{
+pirnt("Hello World")
+}
+~~~
+
+```java
+#测试，java语言
+```
+
+~~~matl
+@cdadfadf
+~~~
+
+~~~matlab
+int a =10;
+int b = 19;
+~~~
+
+如下图所示
+
+![头像](D:\图库\头像.jpg)
